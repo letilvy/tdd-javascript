@@ -1,3 +1,4 @@
+
 QUnit.module("DateFormatter");
 
 QUnit.test("Should return the empty string when the date is null or undefined", function(assert) {
